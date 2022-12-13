@@ -12,3 +12,13 @@ rustup target add armv7a-none-eabi  # install arm eabi for rust
 # Build
 
 There is a Makefile
+
+
+# Resources
+
+- <https://wiki.osdev.org/Raspberry_Pi_Bare_Bones>
+- <https://wiki.osdev.org/Raspberry_Pi_Bare_Bones_Rust>
+- <https://github.com/rust-embedded/awesome-embedded-rust>
+- <https://github.com/raspberrypi/tools>
+- <https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials>
+- <https://www.collabora.com/news-and-blog/blog/2017/01/16/setting-up-qemu-kvm-for-kernel-development>
